@@ -26,5 +26,12 @@
     "description": "Software simulation for Android hardware-backed key pairs with key attestation",
     "author": "JingMatrix",
     "repoUrl": "https://github.com/JingMatrix/TEESimulator"
+  },
+  {
+    "id": "rezygisk",
+    "name": "ReZygisk",
+    "description": "Standalone implementation of Zygisk",
+    "author": "The PerformanC Organization",
+    "repoUrl": "https://github.com/PerformanC/ReZygisk"
   }
 ]

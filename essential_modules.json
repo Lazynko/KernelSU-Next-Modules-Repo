@@ -10,14 +10,14 @@
     "id": "ksu_toolkit",
     "name": "KernelSU Toolkit",
     "description": "Small extensions on top of KernelSU v3. Mostly for debugging purposes",
-    "author": "backslashxx, KOWX712",
+    "author": "xx, KOWX712",
     "repoUrl": "https://github.com/rifsxd/ksu_toolkit"
   },
   {
     "id": "bindhosts",
     "name": "Bindhosts",
     "description": "Systemless hosts for APatch, KernelSU and Magisk",
-    "author": "backslashxx, KOWX712",
+    "author": "xx, KOWX712",
     "repoUrl": "https://github.com/bindhosts/bindhosts"
   },
   {

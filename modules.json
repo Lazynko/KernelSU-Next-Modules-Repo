@@ -55,5 +55,12 @@
     "description": "An addon root hiding service for KernelSU compiled with patched kernel source",
     "author": "sidex15 & simonpunk",
     "repoUrl": "https://github.com/sidex15/susfs4ksu-module"
+  },
+  {
+    "id": "brene",
+    "name": "BRENE - SUSFS-FOR-KERNELSU",
+    "description": "A SuSFS/KernelSU module for SuSFS patched kernels",
+    "author": "rrr333nnn333, KOWX712, sidex15 & simonpunk",
+    "repoUrl": "https://github.com/rrr333nnn333/BRENE"
   }
 ]

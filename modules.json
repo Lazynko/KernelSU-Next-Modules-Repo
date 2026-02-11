@@ -80,5 +80,13 @@
     "author": "rrr333nnn333, KOWX712, sidex15 & simonpunk",
     "repoUrl": "https://github.com/rrr333nnn333/BRENE",
     "license": "AGPL-3.0"
+  },
+  {
+    "id": "zygisk_lsposed",
+    "name": "ReLSPosed",
+    "description": "Another, but detection enhanced, implementation of Xposed Framework. Supports Android 8.1 ~ 16.",
+    "author": "ThePedroo, JingMatrix and LSPosed Developers",
+    "repoUrl": "https://github.com/ThePedroo/ReLSPosed",
+    "license": "GPL-3.0"
   }
 ]
